@@ -1,4 +1,6 @@
-### Hi there 👋
+### <h2 align="center">G'day, I'm Sayan! :wave:</h2>
+
+50% devops, 40% geek and the others 10% are coffee.
 
 <!--
 **sayangr/sayangr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
