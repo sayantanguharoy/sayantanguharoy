@@ -1,4 +1,5 @@
-### <h2 align="center">G'day, I'm Sayan! :wave:</h2>
+### <h2 align="center">G'day, I'm Sayan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/></h2>
 
 50% devops, 40% geek and the others 10% are coffee.
 
