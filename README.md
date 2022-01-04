@@ -3,8 +3,8 @@
 
 50% devops, 40% geek and the others 10% are coffee.
 
-- [Twitter](https://twitter.com/isayangr)
-- [Blog](https://awemonk.com)
+- [Twitter](https://twitter.com/sayantangr)
+- [Blog](https://sayantan.org)
 
 <!--
 **sayangr/sayangr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
